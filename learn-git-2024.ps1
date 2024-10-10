@@ -163,3 +163,4 @@ git clone https://github.com/cengxiye/sid.github.io.git
 # 执行时机：git pull 需要在你想要获取远程仓库变更时执行
 
 git log --oneline --all --graph #可视化
+git remote rm origin #删除远程仓库

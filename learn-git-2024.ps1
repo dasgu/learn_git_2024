@@ -161,3 +161,5 @@ git clone https://github.com/cengxiye/sid.github.io.git
 # 操作对象：git pull 操作的对象是当前分支上的远程变更
 # 执行时机：git clone 只需要执行一次，创建本地仓库的拷贝
 # 执行时机：git pull 需要在你想要获取远程仓库变更时执行
+
+git log --oneline --all --graph #可视化

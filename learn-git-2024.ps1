@@ -170,3 +170,4 @@ git config --global user.name "guhaoran"
 git config --global user.email "1875537406@qq.com"
 
 # 现在使用的ssh协议，需要生成密钥对，把公钥放进github里面去，生成的.ssh文件在用户目录下。
+# 现在也可以使用http协议，但是需要token

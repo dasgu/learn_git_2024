@@ -8,3 +8,4 @@ git branch
 git switch  
 git log  
 git reset  
+git config global -l  

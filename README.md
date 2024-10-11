@@ -9,3 +9,4 @@ git switch
 git log  
 git reset  
 git config global -l  
+git using http  

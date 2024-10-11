@@ -7,3 +7,4 @@ git commit -m "hello world"
 git branch  
 git switch  
 git log  
+git reset  

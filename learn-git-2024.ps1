@@ -166,3 +166,5 @@ git log --oneline --all --graph #可视化
 git remote rm origin #删除远程仓库
 git reset --soft HEAD^ #回退到上个版本，修改任保留在暂存区，本质上就是撤销一次commit
 git reset --hard HEAD^ #回退到上个版本, 删除所有的更改。
+git config --global user.name "guhaoran"
+git config --global user.email "1875537406@qq.com"

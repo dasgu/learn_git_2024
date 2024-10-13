@@ -173,3 +173,4 @@ git config --global user.email "1875537406@qq.com"
 # 现在也可以使用http协议，但是需要token
 # 2024.10.12 hhhhhh
 # 2024.10.13 yes, 今天试了10次，才把github的学生认证通过，离谱。逆天电脑定位，手机一遍过。
+# ctrl+, vscode全局搜索
